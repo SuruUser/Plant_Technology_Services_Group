@@ -10,9 +10,9 @@
 # Constructions Section
 --------------------------------------------------------------*/
 /* SHIFT */
-nav ul li {
-  display: inline-block;
-}
+/*nav ul li {*/
+  /*display: inline-block;*/
+/*}*/
 nav ul li a {
   display: block;
   padding: 15px;
