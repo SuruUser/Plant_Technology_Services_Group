@@ -355,7 +355,7 @@ h6 {
 }
 
 #header .logo {
-  font-size: 34px;
+  font-size: 35px;
   margin: 0;
   padding: 0;
   font-family: "calibri";
@@ -518,7 +518,7 @@ h6 {
 */
 .mobile-nav-toggle {
   color: #fff;
-  font-size: 28px;
+  font-size: 20px;
   cursor: pointer;
   display: none;
   line-height: 0;
@@ -631,7 +631,7 @@ h6 {
 
 @media (max-height: 500px) {
   #hero {
-    height: 150vh;
+    height: 100vh;
   }
 }
 
